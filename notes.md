@@ -7,7 +7,7 @@ How to center an element using grid
 -using justify-content:center and align-content:center in parent container(https://youtu.be/t6CBKf8K_Ac?t=2558)
 
 How to swap images in media query
--using displa:none or visibility:hidden (https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping)
+-using display:none or visibility:hidden (https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping)
 
 How to make button glow after hovering over it
 -using filter:dropshadow() property (https://developer.mozilla.org/en-US/docs/Web/CSS/filter, https://webcode.tools/css-generator/drop-shadow)
