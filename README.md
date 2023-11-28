@@ -50,4 +50,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/@Poonamkothawade25]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Poonamkothawade25]
